@@ -1,0 +1,66 @@
+[
+  {
+    "id": "tsca-8(a)(7)-pfas-reporting-regulations",
+    "jurisdiction": "EPA",
+    "bill": "TSCA 8(a)(7) PFAS reporting regulations",
+    "docket": "EPA-HQ-OPPT-2020-0549",
+    "status": "final",
+    "confidence": 0.4,
+    "lastUpdated": "2025-11-13",
+    "sourceUrls": [
+      "https://www.epa.gov/assessing-and-managing-chemicals-under-tsca/tsca-section-8a7-reporting-and-recordkeeping"
+    ],
+    "fields": {
+      "billName": {
+        "answer": "TSCA 8(a)(7) PFAS reporting regulations",
+        "confidence": 0.0
+      },
+      "docketNumber": {
+        "answer": "EPA-HQ-OPPT-2020-0549",
+        "confidence": 2.63
+      },
+      "jurisdiction": {
+        "answer": "EPA",
+        "confidence": 0.35
+      },
+      "overview": {
+        "answer": "pdf",
+        "confidence": 0.0
+      },
+      "requirements": {
+        "answer": "electronically report information",
+        "confidence": 0.04
+      },
+      "penalties": {
+        "answer": "pdf",
+        "confidence": 0.0
+      },
+      "keyDates": {
+        "answer": "April 13, 2027",
+        "confidence": 0.0
+      },
+      "coveredProducts": {
+        "answer": "Per- and Polyfluoroalkyl Substances",
+        "confidence": 0.5
+      },
+      "exemptions": {
+        "answer": "modifications that will reduce unnecessary or potentially duplicative reporting requirements for manufacturers",
+        "confidence": 0.07
+      }
+    },
+    "tags": [
+      [
+        "pfas",
+        "regulated_substance"
+      ],
+      [
+        "exemption",
+        "compliance"
+      ],
+      [
+        "reporting",
+        "requirement"
+      ]
+    ]
+  }
+]
