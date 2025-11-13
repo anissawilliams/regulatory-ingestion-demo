@@ -1,51 +1,51 @@
 [
   {
-    "id": "tsca-8(a)(7)-pfas-reporting-regulations",
+    "id": "40-cfr-part-705",
     "jurisdiction": "EPA",
-    "bill": "TSCA 8(a)(7) PFAS reporting regulations",
-    "docket": "EPA-HQ-OPPT-2020-0549",
+    "bill": "40 CFR Part 705",
+    "docket": "Not found",
     "status": "final",
-    "confidence": 0.4,
+    "confidence": 0.73,
     "lastUpdated": "2025-11-13",
     "sourceUrls": [
       "https://www.epa.gov/assessing-and-managing-chemicals-under-tsca/tsca-section-8a7-reporting-and-recordkeeping"
     ],
     "fields": {
       "billName": {
-        "answer": "TSCA 8(a)(7) PFAS reporting regulations",
-        "confidence": 0.0
+        "answer": "40 CFR Part 705",
+        "confidence": 0.95
       },
       "docketNumber": {
-        "answer": "EPA-HQ-OPPT-2020-0549",
-        "confidence": 2.63
+        "answer": "Not found",
+        "confidence": 0.0
       },
       "jurisdiction": {
         "answer": "EPA",
-        "confidence": 0.35
+        "confidence": 0.95
       },
       "overview": {
-        "answer": "pdf",
-        "confidence": 0.0
+        "answer": "TSCA Section 8(a)(7) Reporting and Recordkeeping Requirements for Perfluoroalkyl and Polyfluoroalkyl Substances Basic Information Legal Authorities 15 U.S.C. \u00a72607(a)(7) Code of Federal Regulations Citations 40 CFR Part 705 Docket Numbers EPA-HQ-OPPT-2020-0549 Reporting Period April 13, 2026 - October 13, 2026* *Small manufacturers only reporting as PFAS article importers have until April 13, 2027 On October 11, 2023, the Environmental Protection Agency (EPA) finalized reporting and recordkeepin...",
+        "confidence": 0.7
       },
       "requirements": {
-        "answer": "electronically report information",
-        "confidence": 0.04
+        "answer": " Any entities required to report under this rule must report their data to EPA through the agency's Central Data Exchange (CDX).  Under TSCA section 8(a)(7), EPA must promulgate a rule to require each person who has manufactured (including imported) PFAS in any year since 2011 to report certain data to EPA, including: A.",
+        "confidence": 0.8
       },
       "penalties": {
-        "answer": "pdf",
-        "confidence": 0.0
+        "answer": " For the purpose of this rule, EPA has defined \u201cPFAS\u201d as a chemical substance that contains at least one of the following three structures: R-(CF 2 )-CF(R\u2032)R\u2033, where both the CF 2 and CF moieties are saturated carbons.",
+        "confidence": 0.8
       },
       "keyDates": {
-        "answer": "April 13, 2027",
-        "confidence": 0.0
+        "answer": "January 1, 2011; October 11, 2023; November 10, 2025; April 13, 2026; October 13, 2026",
+        "confidence": 0.9
       },
       "coveredProducts": {
-        "answer": "Per- and Polyfluoroalkyl Substances",
-        "confidence": 0.5
+        "answer": "TSCA Section 8(a)(7) Reporting and Recordkeeping Requirements for Perfluoroalkyl and Polyfluoroalkyl Substances Basic Information Legal Authorities 15 U.",
+        "confidence": 0.7
       },
       "exemptions": {
-        "answer": "modifications that will reduce unnecessary or potentially duplicative reporting requirements for manufacturers",
-        "confidence": 0.07
+        "answer": " These proposed changes incorporate exemptions and modifications that will reduce unnecessary or potentially duplicative reporting requirements for manufacturers.  The proposed exemptions apply to: PFAS manufactured (including imported) in mixtures or products at concentrations 0.",
+        "confidence": 0.8
       }
     },
     "tags": [
